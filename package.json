@@ -1,0 +1,29 @@
+{
+  "name": "login_test",
+  "version": "1.0.0",
+  "description": "I'm testing a login and registration system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandanwadukwe/Login_registration.git"
+  },
+  "keywords": [
+    "Login",
+    "registration"
+  ],
+  "author": "Amanda Obiajulu Nwadukwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandanwadukwe/Login_registration/issues"
+  },
+  "homepage": "https://github.com/amandanwadukwe/Login_registration#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
